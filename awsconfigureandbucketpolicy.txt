@@ -3,9 +3,9 @@ first install aws cli
 cmd terminal 
 aws configure
 
-AKIAQPA7I4NZECK2OAH2   access key
+Adjbakbjdsdk2OAH2   access key
 
-823syoPl7cVumpMHfVZLthQvwGhm8mWxGPb/OCnv   secret key
+ahfkjdkhsjdfkkdbkzbkbkPb/OCnv   secret key
 
  only ap-south-1 not Asia Pacific (Mumbai) ap-south-1
 
