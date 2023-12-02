@@ -3,9 +3,9 @@ first install aws cli
 cmd terminal 
 aws configure
 
-Adjbakbjdsdk2OAH2   access key
+AXXXXXXXXXX   access key
 
-ahfkjdkhsjdfkkdbkzbkbkPb/OCnv   secret key
+axxxxxxxxxxxxxxxxxxxx   secret key
 
  only ap-south-1 not Asia Pacific (Mumbai) ap-south-1
 
@@ -20,7 +20,7 @@ access denied error
       "Action": "s3:PutObject",
       "Resource": "arn:aws:s3:::stockanalyszed/*",    bucket name
       "Principal": {
-        "AWS": ["arn:aws:iam::032277848946:user/akshay"]    IAM arn copied here  arn:aws:iam::032277848946:user/akshay
+        "AWS": ["arn:aws:iam::xxxxxxxxx:user/akshay"]    IAM arn copied here  arn:aws:iam::xxxxxxxxxxx:user/akshay
       }
     }
   ]
